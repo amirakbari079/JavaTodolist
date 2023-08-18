@@ -1,0 +1,6 @@
+buy true
+read false
+work true
+chill false
+goto_pull true
+drink false
